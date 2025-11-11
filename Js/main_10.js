@@ -1,0 +1,10 @@
+console.log("1. Elon Musk",
+    "2. Jeff Bezos",
+    "3. Bernard Arnault",
+    "4. Mark Zuckerberg",
+    "5. Larry Ellison",
+    "6. Warren Buffett",
+    "7. Bill Gates",
+    "8. Steve Ballmer",
+    "9. Mukesh Ambani",
+    "10. Larry Page");

@@ -1,0 +1,1 @@
+document.getElementById("parrafo").style.fontSize = "25px" 
